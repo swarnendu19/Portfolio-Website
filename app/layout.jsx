@@ -12,7 +12,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Luis Solar - Developer Portfolio",
+  title: "Swarnendu Maity - Developer Portfolio",
   description:
     "Explore the portfolio of Luis Solar, a web developer showcasing his projects and expertise.",
 };
