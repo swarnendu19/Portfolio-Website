@@ -23,7 +23,7 @@ const projects = [
   {
     num: "01",
     category: "frontend",
-    title: "project 1",
+    title: "Erase-clone",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, consectetur.",
     stack: [{ name: "Html 5" }, { name: "CSS 3" }, { name: "Javascript" }],
@@ -34,7 +34,7 @@ const projects = [
   {
     num: "02",
     category: "fullstack",
-    title: "project 2",
+    title: "Code-editor",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, consectetur.",
     stack: [{ name: "Next.js" }, { name: "Tailwind CSS" }, { name: "Node.js" }],
@@ -45,7 +45,7 @@ const projects = [
   {
     num: "03",
     category: "frontend",
-    title: "project 3",
+    title: "Portfolio",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, consectetur.",
     stack: [{ name: "Next.js" }, { name: "Tailwind CSS" }],
