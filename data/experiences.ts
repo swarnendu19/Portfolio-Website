@@ -3,7 +3,7 @@ import { IExperienceItem } from "@/types";
 const experiences: IExperienceItem[] = [
   {
     designation: "Full Stack Development Intern",
-    company: "TECHOX LLP",
+    company: "Lega Byte(Start Up works on Logal Space)",
     startDate: "May 2021",
     endDate: "July 2022",
     isCurrentJob: false,
