@@ -17,6 +17,16 @@ const skills: ISkillListItem[] = [
       {
         title: "Java",
         level: SkillLevel.Expert,
+        icon: "/skills/javaimg.svg",
+      },
+      {
+        title: "Golang",
+        level: SkillLevel.Expert,
+        icon: "/skills/goimg.svg",
+      },
+      {
+        title: "Dart",
+        level: SkillLevel.Expert,
         icon: "/skills/dart.svg",
       },
     ],
