@@ -26,9 +26,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Swarnendu Maity",
+  title: "Nikhil Rajput",
   description:
-    "Swarnendu is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
   robots: {
     index: true,
     follow: true,
@@ -49,14 +49,16 @@ export const metadata: Metadata = {
     },
   ],
   keywords: [
-    "swarnendu19",
-    "SwarnenduMaity",
-    "Swarnendu Maity",
-    "founder of CodeSpy",
-    "CodeSpy founder",
+    "nikhil rajput",
+    "nikhil",
+    "nixrajput",
+    "nikhil-rajput",
+    "rajput nikhil",
+    "founder of nixlab",
+    "nixlab founder",
     "full stack developer",
     "indian developer",
-    "swarnendu github",
+    "nixrajput github",
   ],
 };
 
