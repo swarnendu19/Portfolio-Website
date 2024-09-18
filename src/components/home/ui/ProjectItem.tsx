@@ -71,7 +71,8 @@ const ProjectItem = ({ project }: { project: IProjectItem }) => {
           ) : null}
 
           {project.url ? (
-            <Link
+            
+             <Link
               href={project.url}
               aria-label={`${project.title} Project URL`}
               target="_blank"
@@ -82,7 +83,7 @@ const ProjectItem = ({ project }: { project: IProjectItem }) => {
                 className="text-base/6 text-[var(--textColor)]"
               />
             </Link>
-          ) : null}
+           ) : null}
         </Row>
       </Column>
 

@@ -11,7 +11,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/swarnendu19/Ecommerce",
-    url: "ecommerce-by-dip.vercel.app",
+    url: "https://ecommerce-by-dip.vercel.app/",
     tags: ["React.js", "Redux", "SASS", "Stripe", "NodeJS", "MongoDB", "Express", "Redis", "Docker"],
   },
   {
@@ -23,7 +23,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/swarnendu19/PaySync",
-    url: "www.npmjs.com/package/paysync",
+    url: "https://npmjs.com/package/paysync",
     tags: ["Node.js", "Stripe", "NPM"],
   },
    
@@ -36,7 +36,7 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/swarnendu19/Code-Editor",
-    url: "code-editor-dip.vercel.app",
+    url: "https://code-editor-dip.vercel.app/",
     tags: ["ReactJS", "Node.js", "Express.js", "WebSocket", "TailwindCSS"],
   },
   {
@@ -47,7 +47,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    url: "crafy-eraser-clone.vercel.app",
+    url: "https://crafy-eraser-clone.vercel.app/",
     githubUrl:
       "https://github.com/swarnendu19/Crafy-Eraser-Clone",
     tags: ["React", "NextJS", "ShadCN", "TypeScript", "Convex Database"],
