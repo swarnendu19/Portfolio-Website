@@ -1,6 +1,19 @@
 import { IProjectItem, ProjectType, RepoType } from "@/types";
 
 const projects: IProjectItem[] = [
+  {
+    id: "PaySync",
+    title: "PaySync - npm package",
+    description:
+      "PaySync is a TypeScript library that provides a unified interface for integrating multiple payment providers, such as Stripe, LemonSqueezy, and RozerPay. It allows developers to easily switch between different payment gateways without changing existing payment logic, simplifying the management of various payment systems.",
+    icon: "/skills/npm.svg",
+    repoType: RepoType.Public,
+    projectType: ProjectType.Personal,
+    githubUrl: "https://github.com/swarnendu19/PaySync",
+    url: "https://npmjs.com/package/paysync/",
+    tags: ["Node.js", "Stripe", "NPM"],
+  },
+   
   
   {
     id: "e-commerce-app-mern",
@@ -14,19 +27,7 @@ const projects: IProjectItem[] = [
     url: "https://ecommerce-by-dip.vercel.app/",
     tags: ["React.js", "Redux", "SASS", "Stripe", "NodeJS", "MongoDB", "Express", "Redis", "Docker"],
   },
-  {
-    id: "PaySync",
-    title: "PaySync - npm package",
-    description:
-      "PaySync is a TypeScript library that provides a unified interface for integrating multiple payment providers, such as Stripe, LemonSqueezy, and RozerPay. It allows developers to easily switch between different payment gateways without changing existing payment logic, simplifying the management of various payment systems.",
-    icon: "/skills/npm.svg",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/swarnendu19/PaySync",
-    url: "https://npmjs.com/package/paysync",
-    tags: ["Node.js", "Stripe", "NPM"],
-  },
-   
+
   {
     id: "code-spy",
     title: "Real Time Code Editor",
