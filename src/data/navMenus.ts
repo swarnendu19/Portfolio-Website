@@ -51,11 +51,7 @@ const navMenus: INavMenuItem[] = [
 export default navMenus;
 
 export const menuItems: INavItem[] = [
-  // {
-  //   name: "Home",
-  //   link: "/#hero",
-  //   icon: faHome,
-  // },
+ 
   {
     name: "About",
     link: "/#about",
